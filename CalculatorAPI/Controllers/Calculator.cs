@@ -11,13 +11,15 @@ namespace YourNamespace.Controllers
         public IActionResult AddNumbers([FromQuery] decimal number1, [FromQuery] decimal number2)
         {
             var result = number1 + number2;
-            return Ok(result);
+            return Ok(result); 
         }
 
         // Endpoint to subtract the second decimal from the first
         [HttpGet("difference")]
         public IActionResult SubtractNumbers([FromQuery] decimal number1, [FromQuery] decimal number2)
         {
+            // Subtract the second number from the first and return the result in an HTTP 200 OK response
+
             var result = number1 - number2;
             return Ok(result);
         }
