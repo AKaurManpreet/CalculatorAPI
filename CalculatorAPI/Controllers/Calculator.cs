@@ -41,7 +41,7 @@ namespace YourNamespace.Controllers
             return Ok(result);
         }
 
-        // Endpoint to calculate the remainder of the division
+        // Endpoint to calculate remainder of the division
         [HttpGet("remainder")]
         public IActionResult ModuloNumbers([FromQuery] decimal number1, [FromQuery] decimal number2)
         {
