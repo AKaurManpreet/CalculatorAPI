@@ -1,0 +1,8 @@
+/workspaces/CalculatorAPI/CalculatorAPI/obj/Debug/net8.0/CalculatorAPI.csproj.AssemblyReference.cache
+/workspaces/CalculatorAPI/CalculatorAPI/obj/Debug/net8.0/CalculatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CalculatorAPI/CalculatorAPI/obj/Debug/net8.0/CalculatorAPI.AssemblyInfoInputs.cache
+/workspaces/CalculatorAPI/CalculatorAPI/obj/Debug/net8.0/CalculatorAPI.AssemblyInfo.cs
+/workspaces/CalculatorAPI/CalculatorAPI/obj/Debug/net8.0/CalculatorAPI.csproj.CoreCompileInputs.cache
+/workspaces/CalculatorAPI/CalculatorAPI/obj/Debug/net8.0/CalculatorAPI.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/CalculatorAPI/CalculatorAPI/obj/Debug/net8.0/CalculatorAPI.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/CalculatorAPI/CalculatorAPI/obj/Debug/net8.0/CalculatorAPI.sourcelink.json
